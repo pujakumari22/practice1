@@ -1,1 +1,1 @@
-## Bootstrap training
+## Bootstrap training for beginners
