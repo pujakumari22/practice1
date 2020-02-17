@@ -1,0 +1,44 @@
+/*navbar*/
+
+
+.navbar-brand {
+    text-transform: uppercase;
+    font-weight: 900;
+ }
+ .bg-dark{
+     background-color: #6f4e37 !important;
+ }
+
+
+  /*Home Page*/  
+
+.hero-home {
+    padding-top: 20px;
+    padding-bottom:  20px;
+}
+ 
+.hero-home p{
+    font-size: 20px;
+    }
+
+.hero-home h2{
+    font-weight: 900
+}
+
+.services-section{
+    padding-top: 40px;
+}
+.contact-card{
+    max-height: 40px;
+    scroll-padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+/*Custom Button*/
+.btn-primary{
+    background-color: transparent;
+    color:#000;
+ }
+.btn-primary :hover {
+background-color:#6f4e37;
+}
